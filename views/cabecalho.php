@@ -38,13 +38,13 @@
               <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
                   <li class="nav-item active">
-                    <a class="nav-link" href="#">Início</span></a>
+                    <a class="nav-link" href="/siteteste/index.php">Início</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Quem Somos</a>
+                    <a class="nav-link" href="/siteteste/views/quemsomos.php">Quem Somos</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Convênios</a>
+                    <a class="nav-link" href="/siteteste/views/convenios.php">Convênios</a>
                   </li>
 										
 									<li class="nav-item">
