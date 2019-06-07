@@ -59,5 +59,20 @@
             </div>
           </nav>
 <!-- end navbar  -->
-    </header>
-    <div class="container">
+<div class="page-header section-dark" style="background-image: url('./assets/img/antoine-barres.jpg')">
+    <div class="filter"></div>
+
+    <div class="content-center">
+      <div class="container">
+        <h1 class="presentation-subtitle text-center"> Seja bem vindo ao site da dupla programeira </h1>
+      </div>
+    </div>
+    <div class="moving-clouds" style="background-image: url('./assets/img/clouds.png'); "></div>
+  </div>
+<div class="wrapper">
+<!-- TODO consertar row vazia -->
+  
+
+    <!-- content come here     -->
+    <div class="container "  data-parallax="true">
+		
