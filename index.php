@@ -1,4 +1,4 @@
-<?php require_once("./views/cabeçalho.php"); ?>
+<?php require_once("./views/cabecalho.php"); ?>
 
 
 <!-- TODO consertar row vazia -->

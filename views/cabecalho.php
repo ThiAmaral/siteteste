@@ -14,11 +14,11 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
 
 	<!-- CSS Files -->
-	<link href="./assets/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="./assets/css/paper-kit.css" rel="stylesheet" />
+	<link href="./views/assets/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="./views/assets/css/paper-kit.css" rel="stylesheet" />
 
 	<!-- CSS Just for demo purpose, don't include it in your project -->
-	<link href="./assets/demo/demo.css" rel="stylesheet" />
+	<link href="./views/assets/demo/demo.css" rel="stylesheet" />
 
 </head>
 
@@ -59,7 +59,7 @@
             </div>
           </nav>
 <!-- end navbar  -->
-<div class="page-header section-dark" style="background-image: url('./assets/img/antoine-barres.jpg')">
+<div class="page-header section-dark" style="background-image: url('/sitetest/views/assets/img/antoine-barres.jpg')">
     <div class="filter"></div>
 
     <div class="content-center">
@@ -67,7 +67,7 @@
         <h1 class="presentation-subtitle text-center"> Seja bem vindo ao site da dupla programeira </h1>
       </div>
     </div>
-    <div class="moving-clouds" style="background-image: url('./assets/img/clouds.png'); "></div>
+    <div class="moving-clouds" style="background-image: url('/sitetest/views/assets/img/clouds.png'); "></div>
   </div>
 <div class="wrapper">
 <!-- TODO consertar row vazia -->
